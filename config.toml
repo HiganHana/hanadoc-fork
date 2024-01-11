@@ -27,8 +27,8 @@ enableEmoji = true
   homeSubtitlePrinter = true
   scrollToTop = true 
   global_mathjax = false
-  readTime = true
-  readTimeSeparator = "CHANGE ME READ TIME"
+  readTime = false
+
   # legacyLayout = false
   shareSocial = true
   # googleTagManager = "GTM-XXXXXXXX"
