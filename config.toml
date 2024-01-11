@@ -1,7 +1,7 @@
 baseURL = "https://hanadoc.vercel.app/"
 languageCode = "en-us"
 title = "hanadoc"
-theme = "hermit-v2"
+theme = "Hermit-V2"
 
 
 
