@@ -3,7 +3,10 @@ languageCode = "en-us"
 title = "hanadoc"
 theme = "Hermit-V2"
 
+staticDir = [
+  "static1",
 
+]
 
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
